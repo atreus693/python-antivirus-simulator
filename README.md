@@ -11,6 +11,5 @@ This Python project simulates a simple signature-based antivirus engine. It is i
 - **CLI Interface:** Run from the command line to `scan` directories and `add`/`remove` signatures. Uses `argparse` for user-friendly commands.  
 - **Logging:** Basic logging is implemented (e.g. INFO logs for scanned files, WARNING for detections).
 
-## Directory Structure
 
 
